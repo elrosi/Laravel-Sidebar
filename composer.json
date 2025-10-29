@@ -1,5 +1,6 @@
 {
-  "name": "tvoje-meno/laravel-sidebar",
+  "name": "elrosi/laravel-sidebar",
+  "version": "12.0.0",
   "description": "A sidebar builder for Laravel 10–12",
   "license": "MIT",
   "keywords": [
@@ -14,8 +15,8 @@
       "email": "patrick@maatwebsite.nl"
     },
     {
-      "name": "Tvoje meno",
-      "email": "tvoj-email@domain.com"
+      "name": "Rosi Group s.r.o.",
+      "email": "kontakt@rosigroup.com"
     }
   ],
   "require": {
